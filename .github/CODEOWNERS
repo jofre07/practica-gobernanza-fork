@@ -1,0 +1,7 @@
+# CODEOWNERS - Propietarios del código
+# Propietarios por defecto para todo el repositorio
+* @jofre07 @trino327952
+
+# Propietarios por directorio (reemplace con sus usuarios reales)
+/src/ @jofre07
+/docs/ @trino327952jofre07
