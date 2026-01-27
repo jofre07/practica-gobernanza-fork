@@ -11,9 +11,9 @@ Fecha: Enero 2026
 """
 
 
-def sumar(a: float, b: float) -> float:
+def sumar(x: float, y: float) -> float:
     """Suma dos números."""
-    return a + b
+    return x + y
 
 
 def restar(a: float, b: float) -> float:
