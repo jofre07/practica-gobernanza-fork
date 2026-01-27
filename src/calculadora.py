@@ -23,7 +23,9 @@ def restar(a: float, b: float) -> float:
 
 def multiplicar(a: float, b: float) -> float:
     """Multiplica dos números."""
-    return a * b
+        resultado = a * b
+    return resultado
+
 
 
 def dividir(a: float, b: float) -> float:
