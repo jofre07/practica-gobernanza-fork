@@ -59,7 +59,8 @@ def potencia(base: float, exponente: float) -> float:
     EJERCICIO: Esta función será modificada por ambos
     miembros de la pareja para practicar conflictos.
     """
-    return base ** exponente
+        total = base ** exponente
+    return total
 
 
 def raiz_cuadrada(numero: float) -> float:
